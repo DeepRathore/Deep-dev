@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full Stack Developer from Indore, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%92%BB;Ruby+on+Rails+%7C+Javascript+%7C+Angular+%7C+PostgreSQL;Clean+code+lover+%7C+React+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%92%BB;Ruby+on+Rails+%7C+Angular+%7C+PostgreSQL;Clean+code+lover+%7C+React+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
 - 💼 Currently working as a Full Stack Developer with 5+ years of experience
-- 🌱 Learning **Core React** to deepen frontend architecture skills
+- 🌱 I’m currently strengthening my existing skills to deepen frontend and backend expertise
 - ⚒️ Skilled in building scalable web apps with **Ruby on Rails, PostgreSQL, Angular, SCSS**
 - 💌 Reach me at **deepikar342@gmail.com**
 
