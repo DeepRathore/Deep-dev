@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Indore, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%92%BB;Ruby+on+Rails+%7C+Angular+%7C+PostgreSQL;Clean+code+lover+%7C+React+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%92%BB;Ruby+on+Rails+%7C+Angular+%7C+PostgreSQL;Clean+code+%7C+Learner" alt="Typing SVG" />
 </p>
 
 ---
