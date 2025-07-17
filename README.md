@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Indore, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%92%BB;Ruby+on+Rails+%7C+Angular+%7C+PostgreSQL;Clean+code+lover+%7C+React+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%92%BB;Ruby+on+Rails+%7C+Javascript+%7C+Angular+%7C+PostgreSQL;Clean+code+lover+%7C+React+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,8 +38,8 @@
 <h3 align="left">📈 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Deepika's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepRathore&show_icons=true&theme=radical" alt="Deepika's GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepRathore&theme=radical" alt="GitHub Streak" width="49%"/>
 </p>
 
 ---
